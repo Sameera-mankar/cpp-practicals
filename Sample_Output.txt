@@ -1,1 +1,25 @@
+Student Name: SAMEERA MANKAR
+URN: E25B000297
 
+BOOK RECORDS:
+ID | Title | Author | Status
+101 | C++ Programming | E. Balagurusamy | Available
+102 | Data Structures | Mark Allen | Available
+103 | Computer Networks | Andrew Tanenbaum | Available
+
+ISSUE BOOK 101:
+Book issued successfully.
+
+TRY TO ISSUE BOOK 101 AGAIN:
+Error: Book is already issued.
+
+RETURN BOOK 101:
+Book returned successfully.
+
+Book records saved to library.csv.
+
+FINAL BOOK RECORDS:
+ID | Title | Author | Status
+101 | C++ Programming | E. Balagurusamy | Available
+102 | Data Structures | Mark Allen | Available
+103 | Computer Networks | Andrew Tanenbaum | Available
